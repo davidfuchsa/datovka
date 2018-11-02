@@ -29468,6 +29468,8 @@
             {
               "isFlippedHorizontal" : false,
               "style" : {
+                "_class" : "style",
+                "miterLimit" : 10,
                 "textStyle" : {
                   "verticalAlignment" : 0,
                   "_class" : "textStyle",
@@ -29497,10 +29499,13 @@
                     }
                   }
                 },
-                "windingRule" : 1,
-                "_class" : "style",
-                "miterLimit" : 10,
                 "startMarkerType" : 0,
+                "windingRule" : 1,
+                "contextSettings" : {
+                  "opacity" : 0.38676525297619052,
+                  "_class" : "graphicsContextSettings",
+                  "blendMode" : 0
+                },
                 "endMarkerType" : 0
               },
               "glyphBounds" : "{{0, -1}, {154, 12}}",

@@ -1,21 +1,6 @@
 {
   "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
-  "pagesAndArtboards" : {
-    "A8E2C18C-DF73-44FB-81BE-90565CA3FA3B" : {
-      "name" : "Page 1",
-      "artboards" : {
-        "05FDD322-1095-4081-A7BA-85C9589FFCEA" : {
-          "name" : "01.1 List Copy"
-        },
-        "54291238-D51E-4174-826F-74DF03B079CF" : {
-          "name" : "01.1 List"
-        },
-        "D7EE862F-5EFA-4ABF-ABA8-63437B805830" : {
-          "name" : "01.2 List menu"
-        }
-      }
-    }
-  },
+  "build" : 67145,
   "version" : 112,
   "fonts" : [
     "Roboto-Regular",
@@ -39,5 +24,20 @@
     "NONAPPSTORE.67145"
   ],
   "appVersion" : "52.2",
-  "build" : 67145
+  "pagesAndArtboards" : {
+    "A8E2C18C-DF73-44FB-81BE-90565CA3FA3B" : {
+      "name" : "Page 1",
+      "artboards" : {
+        "05FDD322-1095-4081-A7BA-85C9589FFCEA" : {
+          "name" : "01.1 List Copy"
+        },
+        "54291238-D51E-4174-826F-74DF03B079CF" : {
+          "name" : "01.1 List"
+        },
+        "D7EE862F-5EFA-4ABF-ABA8-63437B805830" : {
+          "name" : "01.2 List menu"
+        }
+      }
+    }
+  }
 }
