@@ -1,0 +1,43 @@
+{
+  "commit" : "a9a8e0cffcaebe58914746cb1ab8f707ba873565",
+  "build" : 57544,
+  "version" : 105,
+  "fonts" : [
+    "Roboto-Regular",
+    "Roboto-Medium",
+    "Roboto-Bold"
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "commit" : "a9a8e0cffcaebe58914746cb1ab8f707ba873565",
+    "appVersion" : "51.3",
+    "build" : 57544,
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 105,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.57544"
+  ],
+  "appVersion" : "51.3",
+  "pagesAndArtboards" : {
+    "A8E2C18C-DF73-44FB-81BE-90565CA3FA3B" : {
+      "name" : "Page 1",
+      "artboards" : {
+        "54291238-D51E-4174-826F-74DF03B079CF" : {
+          "name" : "01.1 List"
+        },
+        "05FDD322-1095-4081-A7BA-85C9589FFCEA" : {
+          "name" : "01.1 List Copy"
+        },
+        "D7EE862F-5EFA-4ABF-ABA8-63437B805830" : {
+          "name" : "01.2 List menu"
+        }
+      }
+    }
+  }
+}
